@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/market1501/
+data/*.db
+sample.jpg
