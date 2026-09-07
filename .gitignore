@@ -6,3 +6,4 @@ data/*.db
 sample.jpg
 benchmark/results/market1501_embeddings.npz
 demo/final_output.mp4
+demo/output_annotated.mp4
