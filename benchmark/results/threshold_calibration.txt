@@ -1,0 +1,6 @@
+Genuine pairs: 49649
+Impostor pairs: 44108556
+EER threshold: 0.531000
+EER: 0.026560
+Match threshold: 0.580000
+Reject threshold: 0.531000

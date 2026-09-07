@@ -4,3 +4,5 @@ __pycache__/
 data/market1501/
 data/*.db
 sample.jpg
+benchmark/results/market1501_embeddings.npz
+demo/final_output.mp4
