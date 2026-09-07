@@ -1,24 +1,3 @@
-"""
-Decision and confidence layer.
-
-Responsibility:
-Given a query embedding and the current gallery,
-find the best matching gallery entry and classify it as:
-
-    KNOWN
-    UNCERTAIN
-    NEW
-
-using configured similarity thresholds.
-
-Explicitly out of scope:
-- video pipeline
-- SQLite persistence
-- threshold calibration
-- visit_events / sessions
-- benchmark
-"""
-
 import os
 import sys
 from typing import List, NamedTuple, Optional

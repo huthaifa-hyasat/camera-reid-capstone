@@ -10,7 +10,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from person_detector import PersonDetector
 from reid_embedder import ReIDEmbedder
 from db import GalleryDB
-from decision import decide
+from decision.decision import decide
 import config
 
 def select_primary_person(detections, frame_shape):
